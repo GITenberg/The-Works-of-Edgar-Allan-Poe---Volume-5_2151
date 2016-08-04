@@ -1,0 +1,37 @@
+_repo: The-Works-of-Edgar-Allan-Poe---Volume-5_2151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf:
+- Mystery Fiction
+- Horror
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Horror tales, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Philosophy of furniture -- A tale of Jerusalem -- The Sphinx -- Hop-Frog
+  -- The man of the crowd -- Never bet the Devil your head -- Thou art the man --
+  Why the little Frenchman wears his hand in a sling -- Bon-Bon -- Some words with
+  a mummy -- The poetic principle -- Old English poetry -- Poems -- Poems of manhood
+  -- Doubtful poems.
+title: The Works of Edgar Allan Poe — Volume 5
+url: http://www.gutenberg.org/ebooks/2151
