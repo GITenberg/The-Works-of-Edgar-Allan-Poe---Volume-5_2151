@@ -1,5 +1,8 @@
 _repo: The-Works-of-Edgar-Allan-Poe---Volume-5_2151
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2151#The-Works-of-Edgar-Allan-Poe---Volume-5
 gutenberg_bookshelf:
 - Mystery Fiction
 - Horror
